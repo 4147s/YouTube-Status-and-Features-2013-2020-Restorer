@@ -14,7 +14,7 @@ YouTube Status and Feature Restorer is a project dedicated to restoring and docu
 
 ### Prerequisites
 ## Step 1:
-Download the zip file of the repository or click [here](https://github.com/wannasleepforlong/Numerade-Scraper/archive/refs/heads/main.zip)
+Download the zip file of the repository or click [here](https://github.com/4147s/YouTube-Status-and-Features-2013-2020-Restorer/archive/refs/heads/main.zip)
 
 ## Step 2:
 Extract the archive to obtain a folder 'YouTube Status and Features 2013-2020 Restorer'.
