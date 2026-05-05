@@ -13,37 +13,21 @@ YouTube Status and Feature Restorer is a project dedicated to restoring and docu
 ## Installation Instructions
 
 ### Prerequisites
-- Git
-- A web browser (for accessing archived features)
-- Optional: Python 3.7+ (for any automation tools)
+## Step 1:
+Download the zip file of the repository or click [here](https://github.com/wannasleepforlong/Numerade-Scraper/archive/refs/heads/main.zip)
 
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/4147s/YouTube-Status-and-Feature-Restorer.git
-   ```
+## Step 2:
+Extract the archive to obtain a folder 'YouTube Status and Features 2013-2020 Restorer'.
 
-2. Navigate to the project directory:
-   ```bash
-   cd YouTube-Status-and-Feature-Restorer
-   ```
+## Step 3
+Open your browser, click on extension icon and go to manage extensions.
 
-3. Review the documentation:
-   ```bash
-   cat README.md
-   ```
+## Step 4
+Turn on the developers mode at top-right and click on 'Load unpacked'.
 
-## Usage Examples
+## Step 5
+Finally go inside the Numerade Scraper folder and select the 'YouTube Status and Features 2013-2020 Restorer Extension' folder.
 
-### Accessing Feature Documentation
-Browse the `docs/` folder to find detailed information about specific YouTube features from 2017-2020.
-
-### Using Restoration Tools
-If tools are available, follow the instructions in each tool's respective directory:
-```bash
-cd tools/
-python restore_feature.py --feature=<feature_name>
-```
 
 ### Viewing Historical Archives
 Access archived versions of YouTube features through:
