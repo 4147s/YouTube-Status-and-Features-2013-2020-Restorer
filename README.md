@@ -1,5 +1,4 @@
 # YouTube-Status-and-Features-2013-2020-Restorer
-# YouTube Status and Feature Restorer (2013-2020)
 
 ## Description
 YouTube Status and Feature Restorer is a project dedicated to restoring and documenting YouTube features from 2013-2020. This repository contains information, resources, and tools to help users understand and potentially recover lost or removed YouTube functionality from that era.
